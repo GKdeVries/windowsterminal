@@ -1,0 +1,2 @@
+# windowsterminal
+Windows Terminal Configuration
