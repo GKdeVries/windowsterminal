@@ -1,4 +1,4 @@
-# windowsterminal
+# Windows Terminal settings.json
 Windows Terminal Configuration
 
 this is my settings.json file, it`s mainly focused on the ubuntu theme. 
